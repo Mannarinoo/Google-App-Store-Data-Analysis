@@ -1,7 +1,6 @@
 # Author: Joey Mannarino and Giovanni Grecco
 # Milestone 2 Assignment
 # 11/3/2019
-# *Unfinished Draft*
 import csv
 
 import pandas as pd
